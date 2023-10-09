@@ -1,1 +1,9 @@
-![comp](https://github.com/Wefdzen/Wefdzen/assets/108589201/20ec2e91-3818-4b70-851a-70356335d9e7)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EstebanBorai/EstebanBorai/main/assets/comp.png" width="200" />
+</div>
+
+<p align="center">
+  <samp>
+    <a href="https://leetcode.com/wefd/">leetcode</a> ⌘
+  </samp>
+</p>
