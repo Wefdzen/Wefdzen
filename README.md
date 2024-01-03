@@ -1,5 +1,5 @@
 <div align="center">
-![Uploading coding-anime.gif…]()
+
 <p align="center">
   <samp>
     <a href="https://leetcode.com/wefd/">leetcode</a> ⌘
