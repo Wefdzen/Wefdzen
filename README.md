@@ -5,6 +5,6 @@
 
 <p align="center">
   <samp>
-    <a href="https://leetcode.com/wefd/">leetcode</a> ⌘
+    <a href="https://leetcode.com/wefdzen/">leetcode</a> ⌘
   </samp>
 </p>
