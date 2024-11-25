@@ -33,7 +33,7 @@ When I’m not coding, you can find me:
 
 
 ## 🌸 **Why Golang?**  
-<a href="https://github.com/Wefdzen"><img align="right" width="150" src="./cat1.gif"></a>
+<a href="https://github.com/Wefdzen"><img align="right" width="150" src="./img/cat1.gif"></a>
 - Simplicity 🌱  
 - Performance 🚀  
 - Robust Concurrency Support ⚡  
