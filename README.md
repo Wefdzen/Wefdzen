@@ -5,7 +5,7 @@
 </div>
 
 ## **☕ About me**
-<a href="https://github.com/Wefdzen"><img  align="right" height="175"  width="300" src="./img/animeFree.gif"></a>
+<a href="https://github.com/Wefdzen"><img  align="right" height="250"  width="215" src="./img/mita1.png"></a>
 Hi there! I'm a **Backend Developer** specializing in **Golang** with a passion for building scalable and efficient systems.  
 When I’m not coding, you can find me:  
 - Watching my favorite anime 🎥  
