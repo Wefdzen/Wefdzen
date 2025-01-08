@@ -16,7 +16,7 @@ When I’m not coding, you can find me:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> My Skills  
 <a href="https://github.com/Wefdzen"><img  align="right" height="175"  width="250" src="./img/chrominius-dagger.gif"></a>
-- **Programming Languages**: Golang, Python, and JavaScript  
+- **Programming Languages**: Golang, Python, and C++  
 - **Frameworks**: Gin(favorite), Echo, and Fiber for REST APIs  
 - **Databases**: PostgreSQL, MongoDB, Redis  
 - **Cloud Technologies**: AWS, Docker, Kubernetes
@@ -43,7 +43,7 @@ When I’m not coding, you can find me:
 ## 📂 How to Reach Me  
 <a href="https://github.com/Wefdzen"><img  align="left" height="100"  width="150" src="./img/r.gif"></a>
 - 📧 Email: [wefdrus34@gmail.com](mailto:wefdrus34@gmail.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 🐦 Twitter: [@wefd](https://twitter.com/yourhandle)  
 - 💼 LinkedIn: [Dmitry](https://www.linkedin.com/in/dmitry-plyvskiy-09150a324/)
 - ⛩️ Leetcode: [wefdzen](https://leetcode.com/u/wefdzen/)
 
