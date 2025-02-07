@@ -33,13 +33,13 @@
 ---
 
 ### ⛩️ Letcoode Stats
-
+<a href="https://github.com/Wefdzen"><img align="right" width="280" src="./img/giveCodeVergil.gif"></a>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
 
 ---
 
 ### 🎮 Steam
-
+<a href="https://github.com/Wefdzen"><img align="right" width="280" src="./img/ThatIsNotSolidSnake.gif"></a>
 [![Steam Profile](https://card.yuy1n.io/card/76561199523236549/tokyonight,en,badge,group,badges,games,screenshots)](https://steamcommunity.com/profiles/76561199523236549/)
 
 ---
