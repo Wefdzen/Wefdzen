@@ -23,24 +23,9 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Wefdzen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wefdzen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
----
-
 ### ⛩️ Letcoode Stats
 <a href="https://github.com/Wefdzen"><img align="right" width="280" src="./img/giveCodeVergil.gif"></a>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
-
----
-
-### 🎮 Steam
-<a href="https://github.com/Wefdzen"><img align="right" width="280" src="./img/ThatIsNotSolidSnake.gif"></a>
-[![Steam Profile](https://card.yuy1n.io/card/76561199523236549/tokyonight,en,badge,group,badges,games,screenshots)](https://steamcommunity.com/profiles/76561199523236549/)
 
 ---
 
